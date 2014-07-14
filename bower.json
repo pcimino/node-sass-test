@@ -1,0 +1,8 @@
+{
+  "name": "node-sass-test",
+  "dependencies": {
+    "bower-bourbon": "~3.1.8",
+    "color-scale": "*",
+    "type-rhythm-scale": "*"
+  }
+}
